@@ -1,0 +1,3 @@
+[submodule "java/demo-maven_assignment"]
+	path = java/demo-maven_assignment
+	url = https://github.com/sachinkumar2507/demo-maven_assignment.git
